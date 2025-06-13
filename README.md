@@ -5,8 +5,8 @@ Deep Learning Final Project
 This project applies deep learning techniques to classify medical texts, specifically abstracts and short research papers, into three cancer categories: thyroid, lung, and colon. We compare the performance of Bidirectional LSTM and GRU models using domain specific word embeddings.
 
 ## Models Used
-BiLSTM
-BiGRU with added Global Max Pooling 
+- BiLSTM
+- BiGRU with added Global Max Pooling 
 
 ## Evaluation Metrics
 - Validation accuracy/loss
